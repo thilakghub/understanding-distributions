@@ -1,1 +1,1 @@
-# understanding-distributions
+# Understanding distributions
